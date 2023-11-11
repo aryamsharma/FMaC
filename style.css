@@ -1,0 +1,25 @@
+.background
+{
+    background-color: #000B31;
+    font-family: 'Trebuchet MS';    
+}
+
+.title {
+    color: #F2F7FE;
+    text-align: center;
+    padding-top: 5%;
+    margin-bottom: 0;
+}
+
+.rectangle {
+    height: 50px;
+    width: 10px;
+    background-color: #555;
+}
+
+h2 {
+    color: #F2F7FE;
+    text-align: center;
+    font-size: small;
+    margin-top: 10;
+}
