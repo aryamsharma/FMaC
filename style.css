@@ -1,0 +1,131 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Trebuchet MS';    
+}
+.background
+{
+    background-color: #343434;
+}
+
+.title {
+    color: #F2F7FE;
+    letter-spacing: 0.5em;
+    text-align: center;
+    font-size: 300%;
+    padding-top: 5%;
+    margin-bottom: 0%;
+}
+
+h2 {
+    color: #F2F7FE;
+    text-align: center;
+    font-size: smaller;
+    margin-top: 0.5%;
+    margin-bottom: 4%;
+}
+
+.square-background {
+    /* position: absolute; */
+    height: 1100px;
+    width: 1000px;
+    background-color: #555555;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.artifacts-containers {
+    display: flex;
+    flex-wrap: row;
+    background-color: #343434;
+
+    width: 36%;
+    aspect-ratio: 72/25;
+
+    border-radius: 20px;
+
+    display: inline-block;
+    margin: 5%;
+    margin-top: 2%;
+}
+
+.artifact {
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 2%;
+    margin-top: 2%;
+
+    width: 30%;
+    aspect-ratio: 1/1;
+}
+
+.dropdown {
+    vertical-align: top;
+    width: 49%;
+    aspect-ratio: 45/30;
+    /* height: 30%; */
+
+    display: inline-flex;
+    flex-direction: column;
+    margin-top: 2%;
+    /* background-color: yellow; */
+}
+
+.main-stat {
+    background-color: #343434;
+    border: none;
+    height: 30%;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 250%;
+    color: #F2F7FE;
+}
+
+
+.search-results {
+    /* background-color: red; */
+    max-height: 80%;    
+    font-size: 150%;
+    overflow-y: auto;
+    margin-top: 1%;
+}
+
+.search-results .stat {
+    /* display: none; */
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    background-color: #424242;
+    color: #F2F7FE;
+    margin-bottom: 1%;
+    list-style-type: none;
+    border-radius: 20px;
+}
+
+.bottom-half {
+    width: 80%;
+    height: 700px;
+    margin-left: 10%;
+    /* background-color: #555555; */
+    /* background-color: red; */
+    overflow-y: auto;
+}
+
+.builds {
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin: 5%;
+    margin-top: 2%;
+    text-align: center;
+    background-color: #414141;
+    color: #F2F7FE;
+    margin-bottom: 1%;
+    list-style-type: none;
+    border-radius: 20px;
+    font-size: xx-large;
+}

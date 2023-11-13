@@ -1,0 +1,1019 @@
+{
+    "Albedo": {
+        "role": "Sub DPS",
+        "Sands": [
+            "DEF%"
+        ],
+        "Goblet": [
+            "Geo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage",
+            "DEF%"
+        ]
+    },
+    "Alhaitham": {
+        "role": "Main DPS",
+        "Sands": [
+            "Elementary Mastery",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Dendro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Aloy": {
+        "role": "Sub DPS",
+        "Sands": [
+            "ATK%",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Cryo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Ayaka": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Cryo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Damage",
+            "ATK%"
+        ]
+    },
+    "Ayato": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Hydro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Baizhu": {
+        "role": "Support",
+        "Sands": [
+            "HP%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "HP%"
+        ]
+    },
+    "Childe": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Hydro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Cyno": {
+        "role": "Main DPS",
+        "Sands": [
+            "Elementary Mastery",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Electro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Dehya": {
+        "role": "Support",
+        "Sands": [
+            "HP%"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "HP%"
+        ]
+    },
+    "Diluc": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Pyro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Eula": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Physical Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Ganyu": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Cryo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Damage"
+        ]
+    },
+    "Hu Tao": {
+        "role": "Main DPS",
+        "Sands": [
+            "HP%",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Pyro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Itto": {
+        "role": "Main DPS",
+        "Sands": [
+            "DEF%"
+        ],
+        "Goblet": [
+            "Geo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Jean": {
+        "role": "Support",
+        "Sands": [
+            "ATK%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Anemo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Kazuha": {
+        "role": "Support",
+        "Sands": [
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Elementary Mastery"
+        ],
+        "Circlet": [
+            "Elementary Mastery"
+        ]
+    },
+    "Keqing": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Electro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Klee": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Pyro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Kokomi": {
+        "role": "Support",
+        "Sands": [
+            "HP%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "HP%",
+            "Healing Bonus"
+        ]
+    },
+    "Lyney": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Pyro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Mona": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Hydro Damage Bonus",
+            "ATK%"
+        ],
+        "Circlet": [
+            "Crit Rate"
+        ]
+    },
+    "Nahida": {
+        "role": "Support",
+        "Sands": [
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Elementary Mastery"
+        ],
+        "Circlet": [
+            "Elementary Mastery"
+        ]
+    },
+    "Neuvillette": {
+        "role": "Main DPS",
+        "Sands": [
+            "HP%"
+        ],
+        "Goblet": [
+            "Hydro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Nilou": {
+        "role": "Support",
+        "Sands": [
+            "HP%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "HP%"
+        ]
+    },
+    "Qiqi": {
+        "role": "Support",
+        "Sands": [
+            "ATK%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "ATK%"
+        ],
+        "Circlet": [
+            "ATK%",
+            "Healing Bonus"
+        ]
+    },
+    "Raiden": {
+        "role": "Main DPS",
+        "Sands": [
+            "Energy Recharge",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Electro Damage Bonus",
+            "ATK%"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Shenhe": {
+        "role": "Support",
+        "Sands": [
+            "ATK%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "ATK%"
+        ],
+        "Circlet": [
+            "ATK%"
+        ]
+    },
+    "Tighnari": {
+        "role": "Sub DPS",
+        "Sands": [
+            "ATK%",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Dendro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Traveler (Anemo)": {
+        "role": "Sub DPS",
+        "Sands": [
+            "Elementary Mastery",
+            "ATK%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Elementary Mastery",
+            "Anemo Damage Bonus"
+        ],
+        "Circlet": [
+            "Elementary Mastery",
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Traveler (Dendro)": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Dendro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Traveler (Electro)": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Electro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Traveler (Geo)": {
+        "role": "Sub DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Geo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Venti": {
+        "role": "Sub DPS",
+        "Sands": [
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Elementary Mastery"
+        ],
+        "Circlet": [
+            "Elementary Mastery"
+        ]
+    },
+    "Wanderer": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Anemo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Wriothesley": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Cryo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Xiao": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Anemo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Yae Miko": {
+        "role": "Sub DPS",
+        "Sands": [
+            "Energy Recharge",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Electro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Yelan": {
+        "role": "Sub DPS",
+        "Sands": [
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Hydro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Yoimiya": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Pyro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Zhongli": {
+        "role": "Support",
+        "Sands": [
+            "HP%"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "HP%"
+        ]
+    },
+    "Amber": {
+        "role": "Sub DPS",
+        "Sands": [
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Pyro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Barbara": {
+        "role": "Support",
+        "Sands": [
+            "HP%"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "Healing Bonus"
+        ]
+    },
+    "Beidou": {
+        "role": "Sub DPS",
+        "Sands": [
+            "ATK%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Electro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Bennett": {
+        "role": "Support",
+        "Sands": [
+            "ATK%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Pyro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Candace": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "HP%"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "HP%"
+        ]
+    },
+    "Chongyun": {
+        "role": "Support",
+        "Sands": [
+            "ATK%",
+            "Energy Recharge",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Cryo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Collei": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "ATK%",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Dendro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Diona": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "HP%"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "HP%",
+            "Healing Bonus"
+        ]
+    },
+    "Dori": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "HP%",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "HP%",
+            "Elementary Mastery"
+        ],
+        "Circlet": [
+            "Healing Bonus",
+            "HP%",
+            "Elementary Mastery"
+        ]
+    },
+    "Faruzan": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Anemo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Fischl": {
+        "role": "Sub DPS",
+        "Sands": [
+            "ATK%",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Electro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Freminet": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Physical Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Gorou": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Geo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate"
+        ]
+    },
+    "Heizou": {
+        "role": "Sub DPS",
+        "Sands": [
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Elementary Mastery"
+        ],
+        "Circlet": [
+            "Elementary Mastery"
+        ]
+    },
+    "Kaeya": {
+        "role": "Sub DPS",
+        "Sands": [
+            "Energy Recharge",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Cryo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Kaveh": {
+        "role": "Main DPS",
+        "Sands": [
+            "Energy Recharge",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Elementary Mastery"
+        ],
+        "Circlet": [
+            "Elementary Mastery"
+        ]
+    },
+    "Kirara": {
+        "role": "Support",
+        "Sands": [
+            "HP%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "HP%"
+        ]
+    },
+    "Kuki Shinobu": {
+        "role": "Support",
+        "Sands": [
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Elementary Mastery"
+        ],
+        "Circlet": [
+            "Elementary Mastery"
+        ]
+    },
+    "Layla": {
+        "role": "Support",
+        "Sands": [
+            "HP%"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "HP%"
+        ]
+    },
+    "Lisa": {
+        "role": "Support",
+        "Sands": [
+            "Elementary Mastery",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Electro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Lynette": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Anemo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Mika": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "HP%"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "Healing Bonus",
+            "HP%"
+        ]
+    },
+    "Ningguang": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Geo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Noelle": {
+        "role": "Main DPS",
+        "Sands": [
+            "DEF%",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Geo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Razor": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Physical Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Rosaria": {
+        "role": "Support",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Cryo Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Damage"
+        ]
+    },
+    "Sara": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Electro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Sayu": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "ATK%",
+            "Elementary Mastery"
+        ],
+        "Circlet": [
+            "Healing Bonus",
+            "Elementary Mastery"
+        ]
+    },
+    "Sucrose": {
+        "role": "Support",
+        "Sands": [
+            "Elementary Mastery"
+        ],
+        "Goblet": [
+            "Elementary Mastery"
+        ],
+        "Circlet": [
+            "Elementary Mastery"
+        ]
+    },
+    "Thoma": {
+        "role": "Support",
+        "Sands": [
+            "Energy Recharge",
+            "HP%"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "HP%"
+        ]
+    },
+    "Xiangling": {
+        "role": "Sub DPS",
+        "Sands": [
+            "Energy Recharge",
+            "ATK%"
+        ],
+        "Goblet": [
+            "Pyro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Xingqiu": {
+        "role": "Sub DPS",
+        "Sands": [
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Hydro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Xinyan": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "Physical Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Yanfei": {
+        "role": "Main DPS",
+        "Sands": [
+            "ATK%"
+        ],
+        "Goblet": [
+            "Pyro Damage Bonus"
+        ],
+        "Circlet": [
+            "Crit Rate",
+            "Crit Damage"
+        ]
+    },
+    "Yaoyao": {
+        "role": "Support",
+        "Sands": [
+            "HP%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "HP%"
+        ],
+        "Circlet": [
+            "Healing Bonus"
+        ]
+    },
+    "Yun Jin": {
+        "role": "Support",
+        "Sands": [
+            "DEF%",
+            "Energy Recharge"
+        ],
+        "Goblet": [
+            "DEF%"
+        ],
+        "Circlet": [
+            "DEF%"
+        ]
+    }
+}

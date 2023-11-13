@@ -1,15 +1,38 @@
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script defer src="index.js"></script>
     <title>Document</title>
 </head>
-<body>
-    <h1>TEST</h1>
-    <p>BRO PLEASE BE WORK</p>
-    <p>BRO PLEASE BE WORK</p>
-    <p>BRO PLEASE BE WORK</p>
-    <p>BRO PLEASE BE WORK</p>
-    <p>BRO PLEASE BE WORK</p>
+
+<body class="background">
+<!-- <body class="background"> -->
+    <h1 class="title">FMaC</h1>
+    <h2>Find Me a Character (for this artifact)</h2>
+    <div id="square-background" class="square-background" onscroll="dynamic_height()">
+        <div class="top-half">
+            <div class="artifacts-containers">
+                <img id="Sands" class="artifact" src="assets/sands.png" onclick="select_artifact(this)">
+                <img id="Goblet" class="artifact" src="assets/goblet.png" onclick="select_artifact(this)">
+                <img id="Circlet" class="artifact" src="assets/circlet.png" onclick="select_artifact(this)">
+            </div>
+            <div class="dropdown">    
+                <input id="search-input" type="text" class="main-stat" placeholder="Type a main stat...">
+                <ul class="search-results" id="search-results">
+                    <!-- list stuff goes here -->
+                </ul>
+            </div>
+        </div>
+        <div class="bottom-half">
+            <ul class="search-output" id="search-output">
+                <!-- list stuff goes here -->
+            </ul>
+        </div>
+
+    </div>
 </body>
+
 </html>
